@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: Roland Siebelink ⦨<br />Scale-up Ally for Tech Founders
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: I offer programs that help tech founders <br /> scale-up their startup's business results <br /> by supercharging quarterly offsites.
+logo: roland_siebelink.jpg
 search: true
 url: http://localhost:4000
 
