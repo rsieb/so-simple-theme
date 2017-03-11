@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Scale-up Ally for Tech Founders
+title: Scale-up Ally
 locale: en_US
 description: Programs that help tech founders <br /> sustain exponential startup growth <br /> with a proven next-level management toolset.
-logo: roland_siebelink.jpg
+logo: sua-logo-reverse.png
 search: true
 url: http://localhost:4000
 
@@ -37,8 +37,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Roland Siebelink,
+  avatar: roland_siebelink.jpg
   email: you@email.com
   disqus-shortname:
   twitter: #username
