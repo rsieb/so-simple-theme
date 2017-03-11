@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Roland Siebelink ⦨<br />Scale-up Ally for Tech Founders
+title: Scale-up Ally for Tech Founders
 locale: en_US
-description: I offer programs that help tech founders <br /> scale-up their startup's business results <br /> by supercharging quarterly offsites.
+description: Programs that help tech founders <br /> sustain exponential startup growth <br /> with a proven next-level management toolset.
 logo: roland_siebelink.jpg
 search: true
 url: http://localhost:4000
+
 
 # Jekyll configuration
 
