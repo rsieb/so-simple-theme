@@ -4,4 +4,4 @@ gem "jekyll"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
-gem "minimal-mistakes-jekyll"
+gem 'octopress', '~> 3.0'

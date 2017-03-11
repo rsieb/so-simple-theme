@@ -39,13 +39,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Roland Siebelink,
   avatar: roland_siebelink.jpg
-  email: you@email.com
+  email: roland@siebelink.org
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: cyberroland
+  facebook: cyberr69
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: rsiebelink
   instagram: #username
   flickr: #username
   tumblr: #username
@@ -58,3 +58,20 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+
+# Default extension for new posts and pages
+post_ext: md
+page_ext: md
+
+# Default templates for posts and pages
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+# Change default template file (in _templates/)
+post_template: post
+page_template: page
+draft_template: draft
