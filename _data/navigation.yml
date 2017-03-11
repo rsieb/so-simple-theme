@@ -1,16 +1,19 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Startup Growing Pains
+  url: /painpoint/
+
+- title: Ideal Solution
+  url: /painpoint/
+
+- title: Programs
+  url: /programs/
 
 - title: Articles
-  url: /articles/
-
-- title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Contact
+  url: /contact/
 
 - title: Search
   url: /search/
