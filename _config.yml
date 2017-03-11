@@ -10,7 +10,7 @@ url: http://localhost:4000
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -39,7 +39,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Roland Siebelink,
   avatar: roland_siebelink.jpg
-  email: roland@siebelink.org
+  email: roland@scaleupally.com
   disqus-shortname:
   twitter: cyberroland
   facebook: cyberr69

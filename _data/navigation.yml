@@ -1,18 +1,24 @@
 # Site navigation links
 
-- title: Startup Growing Pains
-  url: /painpoint/
-
-- title: Ideal Solution
-  url: /painpoint/
+- title: Startup Growth
+  url: /value-proposition
 
 - title: Programs
-  url: /programs/
+  url: /programs
 
-- title: Articles
+- title: People
   url: /blog/
 
-- title: Contact
+- title: Strategy
+  url: /blog/
+
+- title: Execution
+  url: /blog/
+
+- title: Cash
+  url: /blog/
+
+- title: 90 Minute Meeting
   url: /contact/
 
 - title: Search
