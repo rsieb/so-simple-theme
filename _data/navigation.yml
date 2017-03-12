@@ -1,22 +1,13 @@
 # Site navigation links
 
-- title: Startup Growth
+- title: Startup Growing Pains
   url: /value-proposition
 
 - title: Programs
   url: /programs
 
-- title: People
-  url: /blog/
-
-- title: Strategy
-  url: /blog/
-
-- title: Execution
-  url: /blog/
-
-- title: Cash
-  url: /blog/
+- title: Insights blog
+  url: /blog
 
 - title: 90 Minute Meeting
   url: /contact/

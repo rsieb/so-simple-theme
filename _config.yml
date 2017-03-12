@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Scale-up Ally
+title: Roland Siebelink—Scale-up Ally
 locale: en_US
-description: Programs that help <b>tech founders</b> <br /> sustain <b>exponential startup growth</b> <br /> with a proven <b>next-level management</b> toolset.
+description: I offer programs to <b>help tech founders</b> <br /> sustain <b>extraordinary startup growth</b> <br /> without <b>turning into a boring corporation</b>.
 logo: sua-logo-reverse.png
 # logo: scaleup-ally-logo-basefile.png
 search: true
@@ -38,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Roland Siebelink,
+  name: Roland Siebelink, Scale-up Ally for Tech Founders
   avatar: roland_siebelink.jpg
   email: roland@scaleupally.com
   disqus-shortname:
