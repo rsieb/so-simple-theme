@@ -4,13 +4,14 @@ title: Scale-up Ally
 locale: en_US
 description: Programs that help <b>tech founders</b> <br /> sustain <b>exponential startup growth</b> <br /> with a proven <b>next-level management</b> toolset.
 logo: sua-logo-reverse.png
+# logo: scaleup-ally-logo-basefile.png
 search: true
 url: http://localhost:4000
 
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -39,7 +40,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Roland Siebelink,
   avatar: roland_siebelink.jpg
-  email: roland@siebelink.org
+  email: roland@scaleupally.com
   disqus-shortname:
   twitter: cyberroland
   facebook: cyberr69

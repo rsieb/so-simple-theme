@@ -1,20 +1,12 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+roland:
+  name: Roland Siebelink
+  email: roland@scaleupally.com
+  bio: "Roland Siebelink brings 25+ years of hands-on tech scale-up experience. He founded three companies among which Topicmarks, acquired by Tagged.  He has also lived through three scale-up journeys in person.  Roland has worked and lived in four countries and speaks seven languages. The US government named him an Alien of Extraordinary Ability--true! Roland earned his MBA from IMD in Switzerland in 2001. He has written several business works on customer needs, scorecards. programmatic advertising and tech scale-ups. In 2016, Roland earned his Gazelles International certification. His particular passion is scaling VC-backed tech ventures---while safeguarding the entrepreneurial zeal."
+  avatar: roland_siebelink.jpg
+  twitter: cyberroland
+  linkedin: rsiebelink
+  facebookL: cyberr69
   google:
-    plus: BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+    plus: rsiebelink
