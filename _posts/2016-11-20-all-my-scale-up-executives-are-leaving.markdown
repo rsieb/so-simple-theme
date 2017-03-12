@@ -11,7 +11,8 @@ categories:
 - brain drain
 - people
 - scale-up
-- Scale-up Articles
+- scaleupblog
+- blog
 tags:
 - brain drain
 - executives
@@ -41,13 +42,11 @@ With the right workshop and the right facilitator, I guarantee:
 
 
 
- 	
+
   1. You will build more trust in a day than the departures have lost you in a year.
 
- 	
+
   2. You will identify employees that can serve as (temporary) managers.
 
- 	
+
   3. You will align the entire workforce around 3-5 core priorities, recreating the momentum you need.
-
-

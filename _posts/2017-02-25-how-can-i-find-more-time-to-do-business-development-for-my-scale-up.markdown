@@ -11,7 +11,7 @@ slug: how-can-i-find-more-time-to-do-business-development-for-my-scale-up
 title: Find more time between internal demands
 wordpress_id: 2326
 categories:
-- Scale-up Articles
+- scaleupblog
 tags:
 - accountability
 - business development

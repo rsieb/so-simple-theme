@@ -8,7 +8,7 @@ slug: free-mini-course-for-founders
 title: Free Mini Course for Founders
 wordpress_id: 2406
 categories:
-- Scale-up Articles
+- scaleupblog
 ---
 
 

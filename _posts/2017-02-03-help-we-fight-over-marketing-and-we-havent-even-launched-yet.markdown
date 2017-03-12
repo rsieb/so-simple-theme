@@ -8,7 +8,7 @@ slug: help-we-fight-over-marketing-and-we-havent-even-launched-yet
 title: Will I launch faster with a broader target market?
 wordpress_id: 2158
 categories:
-- Scale-up Articles
+- scaleupblog
 tags:
 - launch
 - market dominance

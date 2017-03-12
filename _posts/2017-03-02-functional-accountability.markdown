@@ -11,7 +11,7 @@ slug: functional-accountability
 title: What functions do you need on an exec team?
 wordpress_id: 2332
 categories:
-- Scale-up Articles
+- scaleupblog
 tags:
 - accountability
 - delegation

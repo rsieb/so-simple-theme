@@ -11,7 +11,7 @@ slug: is-your-startup-really-a-scale-up
 title: Why not run a scale-up like a startup?
 wordpress_id: 2049
 categories:
-- Scale-up Articles
+- scaleupblog
 tags:
 - agility
 - bureaucracy

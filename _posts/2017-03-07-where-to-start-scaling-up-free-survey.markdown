@@ -9,7 +9,7 @@ slug: where-to-start-scaling-up-free-survey
 title: Where to start scaling up--Free Survey
 wordpress_id: 2402
 categories:
-- Scale-up Articles
+- scaleupblog
 post_format:
 - Image
 tags:

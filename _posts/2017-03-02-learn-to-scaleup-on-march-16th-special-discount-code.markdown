@@ -12,7 +12,7 @@ title: 'San Francisco: Learn to Scale-up in a Day'
 wordpress_id: 2364
 categories:
 - Events
-- Scale-up Articles
+- scaleupblog
 tags:
 - '2017'
 - 2017-03

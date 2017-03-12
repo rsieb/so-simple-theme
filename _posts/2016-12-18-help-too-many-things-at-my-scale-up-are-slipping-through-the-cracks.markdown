@@ -8,7 +8,7 @@ slug: help-too-many-things-at-my-scale-up-are-slipping-through-the-cracks
 title: Why are so many things at my scale-up slipping through the cracks?
 wordpress_id: 2153
 categories:
-- Scale-up Articles
+- scaleupblog
 ---
 
 _Dear Roland, the more my scale-up grows, the more things start to slip through the cracks. My team picks up all issues I forward to them, but then drops them again soon after. And just now, we failed to join a key partnership in our industry, because the email got lost in my mailbox. People ask for more process but I'd hate to turn my startup into a bureaucracy... What can I do?_

@@ -11,7 +11,7 @@ slug: daily-huddles-how-best-to-run
 title: How best to run your Daily Huddles
 wordpress_id: 2338
 categories:
-- Scale-up Articles
+- scaleupblog
 tags:
 - agenda
 - cooperation
