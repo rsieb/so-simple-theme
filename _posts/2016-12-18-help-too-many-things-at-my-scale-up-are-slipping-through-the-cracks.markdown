@@ -1,9 +1,8 @@
 ---
-author: admin
+author: roland
 comments: false
 date: 2016-12-18 18:00:58+00:00
 layout: post
-link: http://www.scaleupally.com/help-too-many-things-at-my-scale-up-are-slipping-through-the-cracks/
 slug: help-too-many-things-at-my-scale-up-are-slipping-through-the-cracks
 title: Why are so many things at my scale-up slipping through the cracks?
 wordpress_id: 2153

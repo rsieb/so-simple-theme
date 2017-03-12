@@ -1,12 +1,11 @@
 ---
-author: seeblink
+author: roland
 comments: false
 date: 2017-03-02 16:00:35+00:00
 excerpt: “Put the right people in the right seats”—but do you know what the right
   seats are? The Gazelles Function Accountability Chart helps to get your team onto
   one page. Download your own.
 layout: post
-link: http://www.scaleupally.com/functional-accountability/
 slug: functional-accountability
 title: What functions do you need on an exec team?
 wordpress_id: 2332

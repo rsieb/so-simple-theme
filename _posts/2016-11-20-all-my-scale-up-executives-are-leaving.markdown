@@ -1,9 +1,8 @@
 ---
-author: admin
+author: roland
 comments: false
 date: 2016-11-20 18:00:49+00:00
 layout: post
-link: http://www.scaleupally.com/all-my-scale-up-executives-are-leaving/
 slug: all-my-scale-up-executives-are-leaving
 title: All executives are leaving my scale-up. How can I stop the bleeding?
 wordpress_id: 2139

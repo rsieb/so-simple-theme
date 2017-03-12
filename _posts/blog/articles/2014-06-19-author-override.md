@@ -4,7 +4,7 @@ title: "Override Author Byline Test Post"
 excerpt: "An article to test overriding the default site author."
 categories: articles
 tags: [sample-post, readability, test]
-author: billy_rick
+author: roland
 comments: true
 share: true
 modified: 2016-06-01T14:18:57-04:00
@@ -46,5 +46,5 @@ cornelius_fiddlebone:
 To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
 
 ```yaml
-author: billy_rick
+author: roland
 ```

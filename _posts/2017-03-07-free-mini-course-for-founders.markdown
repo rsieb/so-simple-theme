@@ -1,5 +1,5 @@
 ---
-author: roland@scaleupally.com
+author: roland
 comments: false
 date: 2017-03-07 05:13:20+00:00
 excerpt: 'Founders: learn how to scale up in a week. Subscribe to my online mini course.'
@@ -8,7 +8,7 @@ slug: free-mini-course-for-founders
 title: Free Mini Course for Founders
 wordpress_id: 2406
 categories:
-- scaleupblog
+- promotional
 ---
 
 

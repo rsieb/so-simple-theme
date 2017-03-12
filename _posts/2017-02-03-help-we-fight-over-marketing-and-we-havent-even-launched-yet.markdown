@@ -1,9 +1,8 @@
 ---
-author: seeblink
+author: roland
 comments: false
 date: 2017-02-03 21:46:32+00:00
 layout: post
-link: http://www.scaleupally.com/help-we-fight-over-marketing-and-we-havent-even-launched-yet/
 slug: help-we-fight-over-marketing-and-we-havent-even-launched-yet
 title: Will I launch faster with a broader target market?
 wordpress_id: 2158
@@ -52,13 +51,13 @@ Tim Ferriss nailed it when he offered startups this advice:
 
 
 
- 	
+
   1. Own your category—you need to be number one—even if in very small pond. If you can’t dominate an existing category, find a subcategory that you can dominate. Or create a new one.
 
- 	
+
   2. Don’t try to make a product for “everyone” - Ferriss talks right to you here, Merv. You don’t want to “please” your customers, you want to _impress_. And that means making choices.
 
- 	
+
   3. Forget branding. Deliver great value to your chosen customers. And the brand will build itself.
 
 
