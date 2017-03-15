@@ -4,3 +4,7 @@ gem "jekyll"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
+gem 'octopress', '~> 3.0'
+
+gem "guard-jekyll"
+gem "guard-livereload"

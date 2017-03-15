@@ -1,17 +1,18 @@
 ---
-author: seeblink
+author: roland
 comments: false
 date: 2017-03-03 20:19:01+00:00
 excerpt: 'Daily huddles are an excellent tool against #techscaleup tendencies towards
   silo thinking. But how do you do them right? Newly hired executive Dynawoman learns
   five best practices.'
 layout: post
-link: http://www.scaleupally.com/daily-huddles-how-best-to-run/
 slug: daily-huddles-how-best-to-run
 title: How best to run your Daily Huddles
 wordpress_id: 2338
+image:
+  feature: dilbert-daily-huddle.jpg
 categories:
-- Scale-up Articles
+- scaleupblog
 tags:
 - agenda
 - cooperation

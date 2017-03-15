@@ -1,17 +1,16 @@
 ---
-author: seeblink
+author: roland
 comments: false
 date: 2017-02-25 14:00:50+00:00
 excerpt: 'As a #techscaleup leader, how can you find more time for business development
   when your team is dependent on you to solve internal problems? “Under Pressure”
   from Berkeley needs help.'
 layout: post
-link: http://www.scaleupally.com/how-can-i-find-more-time-to-do-business-development-for-my-scale-up/
 slug: how-can-i-find-more-time-to-do-business-development-for-my-scale-up
 title: Find more time between internal demands
 wordpress_id: 2326
 categories:
-- Scale-up Articles
+- scaleupblog
 tags:
 - accountability
 - business development
@@ -41,7 +40,7 @@ You are not alone in feeling pulled in all directions. First, great that you rea
 Second, I would think of this as a delegation choice. To keep it simple: a choice between business development and operations. What do you want to delegate first? You could hire a head of sales/CRO or a head of operations/COO. Either would ease your burden and let the company be better at both functions.
 
 Third, over time, as a scale-up leader you delegate every function of the business to someone else. How good have you been at that so far? You say your amazing team still needs you daily. Have you delegated in the form of
-* assignments--individual tasks that need your constant supervision and approval? 
+* assignments--individual tasks that need your constant supervision and approval?
 * areas of responsibility--overarching functional metrics that remain open in the what and how?
 
 The Functional Accountability Chart is a great Gazelles tool. It can help you and your team assign true areas of accountability. I use it in all my client workshops, before we even start on the One-Page Strategic Plan. In your next workshop, reserve 1-2 hours to complete this exercise:

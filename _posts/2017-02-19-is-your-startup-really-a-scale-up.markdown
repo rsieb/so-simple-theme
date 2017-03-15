@@ -1,17 +1,16 @@
 ---
-author: seeblink
+author: roland
 comments: false
 date: 2017-02-19 09:00:48+00:00
 excerpt: 'Pivoter''s startup in Santa Clara has finally found product-market fit.
   It is now a fast growing #techscaleup. Should he stick with what works, or stop
   running the company like a startup?'
 layout: post
-link: http://www.scaleupally.com/is-your-startup-really-a-scale-up/
 slug: is-your-startup-really-a-scale-up
 title: Why not run a scale-up like a startup?
 wordpress_id: 2049
 categories:
-- Scale-up Articles
+- scaleupblog
 tags:
 - agility
 - bureaucracy
@@ -77,16 +76,16 @@ First, in your own scale-up, how many of your habits remain from the startup pha
 
 
 
-    
+
   * still pivoting or doubling down?
 
-    
+
   * still serving Kool Aid or injecting truth serum?
 
-    
+
   * still optimizing future projections or current cashflows?
 
-    
+
   * still taking most decisions or relying on your team to do that?
 
 
@@ -94,16 +93,16 @@ First, in your own scale-up, how many of your habits remain from the startup pha
 Second, which enterprise habits have crept into your culture? Even if they are not appropriate yet for the scaling phase? Are you...
 
 
-    
+
   * hedging between business lines or focusing on one?
 
-    
+
   * adopting safe corporate speak or establishing clarity?
 
-    
+
   * running corporate budgeting cycles or debating simple numbers?
 
-    
+
   * sliding into mediocrity or weeding out C-players?
 
 

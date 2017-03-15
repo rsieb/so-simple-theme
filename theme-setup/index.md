@@ -243,7 +243,7 @@ cornelius_fiddlebone:
 To assign Billy Rick as an author for our post. We'd add the following YAML front matter to a post:
 
 ```yaml
-author: billy_rick
+author: roland
 ```
 
 ---

@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Breakthrough Coaching
+  url: /value-proposition
 
-- title: Articles
-  url: /articles/
+- title: Programs
+  url: /programs
 
-- title: Blog
+- title: Insights blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: 90 Minute Meeting
+  url: /contact/
 
 - title: Search
   url: /search/

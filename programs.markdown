@@ -3,7 +3,6 @@ author: roland
 comments: false
 date: 2016-11-03 16:06:13+00:00
 layout: page
-link: http://www.scaleupally.com/packages-and-pricing/
 slug: packages-and-pricing
 title: Packages and Pricing
 wordpress_id: 2040
@@ -209,6 +208,3 @@ Option of Gazelles® faculty member deep-dive
 
 
 Short-Pay Guarantee							
-
-
-

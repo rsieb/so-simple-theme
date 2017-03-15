@@ -1,15 +1,14 @@
 ---
-author: seeblink
+author: roland
 comments: false
 date: 2017-03-07 04:23:22+00:00
 excerpt: 'The Scale-up Ally '
 layout: post
-link: http://www.scaleupally.com/where-to-start-scaling-up-free-survey/
 slug: where-to-start-scaling-up-free-survey
 title: Where to start scaling up--Free Survey
 wordpress_id: 2402
 categories:
-- Scale-up Articles
+- scaleupblog
 post_format:
 - Image
 tags:
