@@ -3,7 +3,6 @@ author: roland
 comments: false
 date: 2016-11-13 06:38:05+00:00
 layout: page
-link: http://www.scaleupally.com/scale-up-ally-for-tech-founders/
 slug: scale-up-ally-for-tech-founders
 title: What I do
 image:
