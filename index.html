@@ -1,15 +1,18 @@
 ---
 layout: page
-title: Breakthrough Startup Coaching
+title: Startup Drowning in Complexity?
 excerpt: "A simple and clean responsive Jekyll theme for words and photos."
 search_omit: true
 image:
-  feature: so-simple-sample-image-7.jpg
+  feature: so-simple-logo-header.jpg
 
 ---
 
+{% capture my_include %}{% include value-prop.md %}{% endcapture %}
+{{ my_include | markdownify }}
+<!--
 <ul class="post-list">
 {% for post in site.posts limit:10 %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
-</ul>
+</ul> -->

@@ -38,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Roland Siebelink, Scale-up Ally for Tech Founders
+  name: Scale-up Allies LLC
   avatar: roland_siebelink.jpg
   email: roland@scaleupally.com
   disqus-shortname:
